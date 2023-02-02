@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ofas/static/css/main.cf1b56ab.css",
+    "main.js": "/ofas/static/js/main.c364483f.js",
+    "index.html": "/ofas/index.html",
+    "main.cf1b56ab.css.map": "/ofas/static/css/main.cf1b56ab.css.map",
+    "main.c364483f.js.map": "/ofas/static/js/main.c364483f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf1b56ab.css",
+    "static/js/main.c364483f.js"
+  ]
+}
